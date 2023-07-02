@@ -7,3 +7,5 @@
 # ctb
 
 # todo 
+flask gui 
+tkinter or qt6 gui
