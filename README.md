@@ -14,3 +14,5 @@ ml based auto detect
 # todo 
 flask gui 
 tkinter or qt6 gui
+
+other ml tech to use
