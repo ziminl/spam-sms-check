@@ -6,13 +6,13 @@ ml based auto detect
 2. if not whitelisted go to ai for define
 3. result. (resend to server)
 
-# ctb
+# how to use
 
+input witn o and x to ml. 
 
-#
 
 # todo 
 flask gui 
 tkinter or qt6 gui
 
-other ml tech to use
+other ml tech to use like gpt
